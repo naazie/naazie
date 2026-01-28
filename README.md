@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huma Naaz</h1>
 <h3 align="center">I love tech, crochet, art and music <3</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naazie" alt="naazie" /></a> </p>
-
 - 🔭 I’m currently working on [theHumanDiscord](https://github.com/naazie/TheHumanDiscord)
 
 - 🌱 I’m currently learning **Machine Learning,More about Web Development, DSA (never ending stooory)**
